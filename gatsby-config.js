@@ -3,7 +3,7 @@ module.exports = {
     title: `Dynasty League`,
     description: `Fantasy Football Dynasty League`,
     author: `Chris Shimmin`,
-    siteUrl: `/`,
+    siteUrl: `https://dynastyfootball.us`,
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
